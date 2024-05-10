@@ -9,4 +9,4 @@ We try to understand the relationship with different features with the output, h
 <br>
 If you see the notebook, you will see, we have tried three different algorithms, logistic regression, random forest and artificial neural network. But the Random forest works best with the dataset.
 
-You will find all the information here in this notebook: 
+<h1>You will find all the information here in this notebook:</h1> Human Resources Retention.ipynb 
